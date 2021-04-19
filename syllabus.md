@@ -59,7 +59,7 @@ Enqueue and dequeue
 
 # Graphs
 
-Introduction
-Representation
-DFS & BFS
-Shortest Paths
+1. Introduction
+2. Representation
+3. DFS & BFS
+4. Shortest Paths
