@@ -46,7 +46,7 @@ Enqueue and dequeue
 1. Linear Search
 2. Binary Search
 
-# [Sorting Algorithms](https://assessments.edyoda.com/topic-video/DS281220/170/7975/) [2 Will be updated](#)
+# [Sorting Algorithms](https://assessments.edyoda.com/topic-video/DS281220/170/7975/) [2 Will be updated](#sorting-algorithms)
 1. Bubble Sort
 2. Insertion Sort
 3. Selection Sort
@@ -55,9 +55,9 @@ Enqueue and dequeue
 6. Bucket Sort
 
 
-# Binary Search Tree [Will be updated](#)
+# Binary Search Tree [Will be updated](#binary-search-tree-will-be-updated)
 
-# Graphs [will be updated](#)
+# Graphs [will be updated](#graphs)
 
 1. Introduction
 2. Representation
